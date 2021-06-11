@@ -1,0 +1,2 @@
+rootProject.name = "StockMVVM"
+include ':app'

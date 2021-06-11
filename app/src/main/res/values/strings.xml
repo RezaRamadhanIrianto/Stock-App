@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StockMVVM</string>
+    <string name="perbandingan">Perbandingan</string>
+    <string name="your_stock">Your Stock</string>
+    <string name="compare">Compare</string>
+    <string name="dana_kelola">Dana Kelola</string>
+    <string name="w">1W</string>
+    <string name="m">1M</string>
+    <string name="Y">1Y</string>
+    <string name="y">3Y</string>
+    <string name="yy">5Y</string>
+    <string name="yyy">10Y</string>
+    <string name="all">All</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jenis_reksa_dana">Jenis Reksa Dana</string>
+    <string name="imbal_hasil">Imbal Hasil</string>
+    <string name="dana_kelolaan">Dana Kelolaan</string>
+    <string name="min_pembelian">Min Pembelian</string>
+    <string name="jangka_waktu">Jangka Waktu</string>
+    <string name="tingkat_resiko">Tingkat Resiko</string>
+    <string name="peluncuran">Peluncuran</string>
+</resources>
